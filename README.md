@@ -9,6 +9,9 @@
 
 
 
-Technologies: Jenkins, GitHub, Docker, Kubernetes, AWS EC2, Prometheus
+# Technologies: 
+Jenkins, GitHub, Docker, Kubernetes, AWS EC2, Prometheus
+
+# Architecture:
 
 ![alt text](image.png)
