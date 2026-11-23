@@ -1,4 +1,4 @@
-## Project 1: End-to-End CI/CD Pipeline using Jenkins, Docker and Kubernetes
+# Project 1: End-to-End CI/CD Pipeline using Jenkins, Docker and Kubernetes
 
 - GitHub source code integration
 - Jenkins automated build pipeline
@@ -9,9 +9,9 @@
 
 
 
-# Technologies: 
+## Technologies: 
 Jenkins, GitHub, Docker, Kubernetes, AWS EC2, Prometheus
 
-# Architecture:
+### Architecture:
 
 ![alt text](image.png)
